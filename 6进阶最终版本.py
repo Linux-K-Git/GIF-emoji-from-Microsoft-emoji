@@ -164,3 +164,4 @@ if __name__ == "__main__":
 # 保存GIF：使用指定帧率保存GIF。
 # 实现从 url.txt 文件中正则匹配读取URL，下载图像并生成高帧率、高质量的GIF图像（允许多个url）
 # 格式为：<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="1024" height="1024" />。
+# 源代码来自：https://github.com/Linux-K-Git/GIF-emoji-from-Microsoft-emoji
