@@ -60,8 +60,8 @@ Use the tutorial:
 
 ---
 
-## 如果你仍然觉得之前的流程难以复现，那么可以前去Releases页面下载最新的已经转换好的常用GIF，包含两种分辨率256\*256和64\*64的30fps GIF动图
-## If you still find the previous process difficult to reproduce, then you can go to the Releases page to download the latest converted common GIFs, including two resolutions 256\*256 and 64\*64 30fps GIF animations.
+## 如果你仍然觉得之前的流程难以复现，那么可以前去Releases页面下载最新的已经转换好的常用GIF，包含两种分辨率256\*256和64\*64的30fps 488个 GIF动图
+## If you still find the previous process difficult to reproduce, then you can go to the Releases page to download the latest converted common GIFs, including two resolutions 256\*256 and 64\*64 30fps 488 GIFS animations.
 
 ![QQ_1721285704856](https://github.com/user-attachments/assets/d988173c-e26e-46de-a3bd-bccaa8d3096b)
 
