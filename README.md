@@ -38,8 +38,6 @@ https://animated-fluent-emoji.vercel.app/
 
 使用教程：
 
-Use the tutorial:
-
 1.确保自己的python版本≥3.8
 
 2.`pip install requests pillow numpy`
@@ -62,10 +60,15 @@ Use the tutorial:
 
 ---
 
-如有问题或疑问请提交issue，开发者会尽可能及时回复你的需求。
+## 如果你仍然觉得之前的流程难以复现，那么可以前去Releases页面下载最新的已经转换好的常用GIF，包含两种分辨率256\*256和64\*64的30fps GIF动图
+## If you still find the previous process difficult to reproduce, then you can go to the Releases page to download the latest converted common GIFs, including two resolutions 256\*256 and 64\*64 30fps GIF animations.
 
-If you have any problems or questions, please submit an issue and the developers will try to respond to your request in a timely manner.
+![QQ_1721285704856](https://github.com/user-attachments/assets/d988173c-e26e-46de-a3bd-bccaa8d3096b)
 
-如果引用该项目的人能给它一颗星，我将不胜感激。
+#### 如有问题或疑问请提交issue，开发者会尽可能及时回复你的需求。
 
-I'd appreciate it if the person who cited the item would give it a star, please.
+####If you have any problems or questions, please submit an issue and the developers will try to respond to your request in a timely manner.
+
+#### 如果引用该项目的人能给它一颗星，我将不胜感激。
+
+#### I'd appreciate it if the person who cited the item would give it a star, please.
