@@ -67,8 +67,10 @@ Use the tutorial:
 
 #### 如有问题或疑问请提交issue，开发者会尽可能及时回复你的需求。
 
-####If you have any problems or questions, please submit an issue and the developers will try to respond to your request in a timely manner.
+#### If you have any problems or questions, please submit an issue and the developers will try to respond to your request in a timely manner.
 
 #### 如果引用该项目的人能给它一颗星，我将不胜感激。
 
 #### I'd appreciate it if the person who cited the item would give it a star, please.
+
+Copyright 2024 Linux-K
