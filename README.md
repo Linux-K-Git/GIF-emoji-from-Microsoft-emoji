@@ -1,5 +1,5 @@
-# 将微软emoji转换为GIF格式以方便在各种地方使用的项目 as Animated Fluent Emojis
-# Project to convert Microsoft emoji to GIF format for ease of use in a variety of locations
+# 将微软3D动态emoji转换为GIF格式以方便在各种地方使用的项目 as Animated Fluent Emojis
+# Project to convert Microsoft 3D animated emoji to GIF format for easy use in various places as Animated Fluent Emojis
 
 Microsoft Teams (3D Animated) to GIF
 as Animated Fluent Emojis
