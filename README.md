@@ -66,6 +66,10 @@ Use the tutorial:
 
 ![QQ_1721285704856](https://github.com/user-attachments/assets/d988173c-e26e-46de-a3bd-bccaa8d3096b)
 
+## 如果你认为这种办法得到的图像质量仍不够高，那么可以使用将APNG转换为GIF格式，那么你可以得到颜色无损的GIF；但是，那仅限于PNG图片本身就是APNG，而非静态截图，并且转换得到的GIF图像体积较大，且不易调整帧率和分辨率，也难以应用于微信这种对图像大小资源有严格要求的聊天软件，而这个项目可以通过一定程度的修改一实现录制任何link的动态图像并保持足够高的质量，如有需求，后续会将APNG转换的结果也加入Releases
+
+## If you think the quality of the image obtained by this method is still not high enough, then you can use the APNG to GIF format conversion, then you can get the color of the GIF lossless; however, that is limited to the PNG image itself is APNG, not static screenshots, and the size of the GIF image obtained by the conversion is large, and it is not easy to adjust the frame rate and resolution, and it is difficult to be applied to WeChat, which has strict requirements on the size and resources of the image. size resources have strict requirements of chat software, and this project can be modified to a certain extent to achieve the recording of any link of moving images and maintain a high enough quality, if necessary, the subsequent APNG conversion results will also be added to Releases!
+
 #### 如有问题或疑问请提交issue，开发者会尽可能及时回复你的需求。
 
 #### If you have any problems or questions, please submit an issue and the developers will try to respond to your request in a timely manner.
