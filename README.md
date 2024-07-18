@@ -1,3 +1,4 @@
+![1](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/assets/images/banner.gif)
 # 将微软3D动态emoji转换为GIF格式以方便在各种地方使用的项目 as Animated Fluent Emojis
 # Project to convert Microsoft 3D animated emoji to GIF format for easy use in various places as Animated Fluent Emojis
 
