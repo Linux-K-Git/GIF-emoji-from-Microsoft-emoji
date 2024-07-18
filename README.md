@@ -11,8 +11,11 @@ This is a use of Microsoft Teams Emoji has launched its new 3D Fluid Design Emoj
 
 Microsoft Teams (3D Animated) 
 参考链接：
+
 Reference Links:
+
 https://emojipedia.org/microsoft-teams
+
 https://www.emojiall.com/zh-hans/platform-microsoftteams
 
 该项目使用Python 3.X代码实现从微软开源表情中读取前端生成的流畅动画录制为GIF格式动图
@@ -24,6 +27,45 @@ You can select emoji from the following project demo to copy link and download t
 ![showcase 1](https://github.com/user-attachments/assets/c9737d11-ea9c-4541-b3a4-3cee2a486e2f)
 
 适用的项目链接：
+
 Applicable project links:
-    https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
-    https://animated-fluent-emoji.vercel.app/
+    
+https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
+    
+https://animated-fluent-emoji.vercel.app/
+
+---
+
+使用教程：
+
+Use the tutorial:
+
+1.确保自己的python版本≥3.8
+
+2.`pip install requests pillow numpy`
+
+3.`python XXX.py`
+
+4.在终端粘贴link/在代码同一目录下创建url.txt写入需要下载的url，url格式必须包含src=xxxxxxx,详见1-6版本代码注释
+
+---
+
+Use the tutorial:
+
+1. Make sure you have python version ≥ 3.8.
+
+2. `pip install requests pillow numpy`
+
+3. `python XXX.py`
+
+4. In the terminal paste link / in the same directory as the code to create url.txt write the url need to download, the url format must contain src = xxxxxxxx, see version 1-6 of the code notes
+
+---
+
+如有问题或疑问请提交issue，开发者会尽可能及时回复你的需求。
+
+If you have any problems or questions, please submit an issue and the developers will try to respond to your request in a timely manner.
+
+如果引用该项目的人能给它一颗星，我将不胜感激。
+
+I'd appreciate it if the person who cited the item would give it a star, please.
