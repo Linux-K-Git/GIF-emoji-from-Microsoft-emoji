@@ -71,6 +71,9 @@ If you think that this approach is still not enough to get high quality images, 
 
 `APNG2GIF.py`,这是一个使用python代码实现APNG转换位GIF图像格式的快速解决脚本，调用几乎所有的CPU线程资源在短时间内迅速转换，而不需要之前方法一个一个下载录制，但也不是完美的
 
+当然，这只是一个简单的示例，如果你希望每一个图片都能很好的转换，那么可以去参考如：APNG to GIF、FFMPEG、APNGToGifConverter等转换工具或在线网站，它们有着更为成熟的转换能力，由于版权问题我不能将他们的链接写在我的项目里，但是你可以通过搜索引擎找到它们。
+Of course, this is just a simple example, if you want every image can be converted well, then you can refer to conversion tools or online websites such as “ APNG to GIF, FFMPEG, APNGToGifConverter……”, which have more mature conversion ability, due to the copyright issue I can't write their links in my project, but you can find them through search engines.
+
 ### 关于图像质量下降的原因是GIF的色深只有8位，即只有2的8次幂，也就是256种颜色，这远达不到我们对“足够好看”图片的色彩的需要。而微软开源出的动画里使用的APNG格式支持24位真彩色和8位透明度，这也是为什么转成GIF会失真的原因。所以无论是录制还是转换均会出现一定程度的色彩丢失。The reason for the loss of image quality is that the color depth of a GIF is only 8 bits, i.e., only 2 to the 8th power, i.e., 256 colors, which is far less than what we need for a “good-looking” image. The APNG format used in Microsoft's open-source animation supports 24-bit true color and 8-bit transparency, which is why it will be distorted when converted to GIF. So both recording and conversion will have some degree of color loss.
 
 #### 如其他有问题或疑问请提交issue，开发者会尽可能及时回复你的需求。
